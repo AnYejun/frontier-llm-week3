@@ -1,0 +1,12 @@
+{
+  "name": "frontier-llm-week3",
+  "version": "1.0.0",
+  "description": "Frontier LLM Week 3: SAE & Activation Steering Experiment Suite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
